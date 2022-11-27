@@ -1,16 +1,9 @@
 # flutterwidgets
 
-A new Flutter project.
+Hi Android developer,
+ 
+        This repository base component of flutter widgets.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-11-27 at 11 53 23 AM](https://user-images.githubusercontent.com/53230870/204122397-db3169d5-1395-4373-8562-60f5ad1b1560.png)
